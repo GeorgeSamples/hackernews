@@ -1,0 +1,14 @@
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\HackerNews.exe
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\HackerNews.deps.json
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\HackerNews.runtimeconfig.json
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\HackerNews.runtimeconfig.dev.json
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\HackerNews.dll
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\win7-x64\HackerNews.pdb
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\win7-x64\HackerNews.csprojAssemblyReference.cache
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\win7-x64\HackerNews.csproj.CoreCompileInputs.cache
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\win7-x64\HackerNews.AssemblyInfoInputs.cache
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\win7-x64\HackerNews.AssemblyInfo.cs
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\win7-x64\HackerNews.dll
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\win7-x64\HackerNews.pdb

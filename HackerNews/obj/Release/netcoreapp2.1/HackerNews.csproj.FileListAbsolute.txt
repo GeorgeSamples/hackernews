@@ -1,0 +1,11 @@
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\HackerNews.deps.json
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\HackerNews.runtimeconfig.json
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\HackerNews.runtimeconfig.dev.json
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\HackerNews.dll
+C:\Users\Alani\source\repos\HackerNews\HackerNews\bin\Release\netcoreapp2.1\HackerNews.pdb
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\HackerNews.csprojAssemblyReference.cache
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\HackerNews.csproj.CoreCompileInputs.cache
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\HackerNews.AssemblyInfoInputs.cache
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\HackerNews.AssemblyInfo.cs
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\HackerNews.dll
+C:\Users\Alani\source\repos\HackerNews\HackerNews\obj\Release\netcoreapp2.1\HackerNews.pdb
