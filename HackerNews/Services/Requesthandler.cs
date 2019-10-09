@@ -29,7 +29,6 @@ namespace HackerNews.Services
 				Task<string> callTask = Task.Run(() => RequestHandler.CallHttp(url));
 				callTask.Wait();
 				result = callTask.Result;
-				Console.WriteLine(result);
 			}
 			catch (Exception ex)
 			{
