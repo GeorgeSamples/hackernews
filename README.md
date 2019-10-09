@@ -8,31 +8,36 @@ This is a simple command line application using .net core 2.1.
 
 ### Prerequisites
 
-Visual Studio 2017 version 15.7 or higher.
-.NET Core 2.1 SDK.
+* Visual Studio 2017 version 15.7 or higher.
+* .NET Core 2.1 SDK.
 
 ### Installing
 
-1)Download or clone the repository.
-2)Launch the .sln file with Visual Studio.
-3)Install Newtonsoft.Json nuget package by James Newton-King.
+* Download or clone the repository.
+* Launch the .sln file with Visual Studio.
+* Install Newtonsoft.Json nuget package by James Newton-King.
 
 In order to run the tests the following packages are required:
-1)Microsoft.NET.Test.Sdk by Microsoft
-2)xunit by James Newkirk, Brad Wilson
-3)xunit.runner.visualstudio by James Newkirk, Brad Wilson
+* Microsoft.NET.Test.Sdk by Microsoft
+* xunit by James Newkirk, Brad Wilson
+* xunit.runner.visualstudio by James Newkirk, Brad Wilson
 
 ## Run
-In the main project folder (\HackerNews where the .sln file is) hit Shift + Right click.
-Select "Open command window here" and type "dotnet restore" and hit enter.
-After it is complete type "dotnet publish "
 
+* In the main project folder (\HackerNews where the .sln file is) hit Shift + Right click.
+* Select "Open command window here" and type ```"dotnet restore"``` and hit enter.
+* After it is complete type ```"dotnet publish -c Release -r <RID>"```,
+where RID is the usual runtime identitfier, e.g. win-x64 or whatever platform you wish to build for (see the catalog [here](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog)).
+* After that is complete navigate to your <RID> folder by typing ```cd HackerNews\bin\Release\netcoreapp2.1\<RID>```, there you should find the HackerNews.exe file.
+* From there you can run the application by typing ```hackernews --post n``` n the number of posts you want to display.
+ 
 ## Running the tests
 
-```
-```
-## Built With
+From visual studio by hitting Ctrl+R,A
 
+## Built With
+* xUnit so that I was able to write simple tests quickly
+* NewtsonSoft.Json to help me serialize and deserialize my objects
 * [HackerNews](https://github.com/HackerNews/API) - The API used to retrieve the posts from HackerNews
 
 ## Authors
