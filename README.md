@@ -51,3 +51,7 @@ This project has an open licence.
 ## Acknowledgments
 * All the brilliant books and online courses I went through.
 * All the online content I referenced and the authors that contributed to them.
+
+## Improvements
+* Ideally more tests.
+* Formatting for when the app is running on the default windows terminal.
