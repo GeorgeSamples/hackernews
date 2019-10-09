@@ -28,8 +28,8 @@ In order to run the tests the following packages are required:
 * Select "Open command window here" and type ```"dotnet restore"``` and hit enter.
 * After it is complete type ```"dotnet publish -c Release -r <RID>"```,
 where RID is the usual runtime identitfier, e.g. win-x64 or whatever platform you wish to build for (see the catalog [here](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog)).
-* After that is complete navigate to your <RID> folder by typing ```cd HackerNews\bin\Release\netcoreapp2.1\<RID>```, there you should find the HackerNews.exe file.
-* From there you can run the application by typing ```hackernews --post n``` n the number of posts you want to display.
+* After that is complete navigate to your <RID> folder by typing ```"cd HackerNews\bin\Release\netcoreapp2.1\<RID>"```, there you should find the HackerNews.exe file.
+* From there you can run the application by typing ```"hackernews --post n"``` "n" being the number of posts you want to display.
  
 ## Running the tests
 
